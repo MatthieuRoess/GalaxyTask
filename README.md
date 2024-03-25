@@ -1,8 +1,8 @@
-# TrellTech
+# GalaxyTask
 
 ## Objectif du Projet
 
-Le projet TrellTech vise à développer une application mobile en React Native permettant aux utilisateurs d'accéder facilement à Trello depuis leur téléphone. En utilisant l'API de Trello, l'objectif est de fournir une expérience utilisateur fluide pour la gestion des tâches, projets et équipes, directement depuis un appareil mobile.
+Le projet GalaxyTask vise à développer une application mobile en React Native permettant aux utilisateurs d'accéder facilement à Trello depuis leur téléphone. En utilisant l'API de Trello, l'objectif est de fournir une expérience utilisateur fluide pour la gestion des tâches, projets et équipes, directement depuis un appareil mobile.
 
 ## Fonctionnalités Principales
 
@@ -14,6 +14,48 @@ Le projet TrellTech vise à développer une application mobile en React Native p
 
 ## Installation
 
-Pour démarrer avec TrellTech, suivez ces étapes :
+Pour démarrer avec GalaxyTask, suivez ces étapes :
 
+- Tout d'abord, vous avez besoin de Node.JS et d'un SDK Android pour lancer ce projet. Vous pouvez les télécharger avec l'IDE Android Studio et une fois installés, vous pouvez supprimer Android Studio si vous le souhaitez.
+
+```bash
+  https://nodejs.org/en
+  https://developer.android.com/studio
+```
+
+- Ensuite, utilisez GIT pour cloner ce dépôt sur votre appareil.
+
+```bash
+git clone -ProjectURL/SSH
+```
+
+- Enfin, exécutez cette commande pour installer toutes les dépendances nécessaires pour Node et vous êtes prêt.
+
+```bash
+npm install
+```
+
+## Environment Variables
+
+Pour exécuter ce projet, vous devrez ajouter les variables d'environnement suivantes à votre fichier .env.
+
+`API_KEY`
+
+`API_TOKEN`
+
+`TRELLO_ID`
+
+## Deployment
+
+- Ce projet peut être déployé en exécutant cette commande et en scannant le code QR avec Expo GO.
+
+```bash
+  npx expo start
+```
+
+- Si vous rencontrez des problèmes lors du déploiement de cette application, essayez plutôt d'utiliser cette commande.
+
+```bash
+  npx expo start -c
+```
 
