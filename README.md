@@ -43,7 +43,7 @@ Pour démarrer avec GalaxyTask, suivez ces étapes :
 - Ensuite, utilisez GIT pour cloner ce dépôt sur votre appareil.
 
 ```bash
-git clone https://github.com/MatthieuRoess/TrellTech.git
+git clone https://github.com/MatthieuRoess/GalaxyTask.git
 ```
 
 - Enfin, exécutez cette commande pour installer toutes les dépendances nécessaires pour Node et vous êtes prêt.
