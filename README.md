@@ -1,5 +1,17 @@
 # GalaxyTask
 
+
+https://github.com/MatthieuRoess/GalaxyTask/assets/123086572/45ba8f63-1885-41f6-babb-4841e5507fc9
+
+
+https://github.com/MatthieuRoess/GalaxyTask/assets/123086572/18e9c31b-f1c8-4d88-8bbe-783d431a3fa5
+
+
+
+https://github.com/MatthieuRoess/GalaxyTask/assets/123086572/9f4ef523-b0d1-4ff5-a2b2-69c94b6df77e
+
+
+
 ## Objectif du Projet
 
 Le projet GalaxyTask vise à développer une application mobile en React Native permettant aux utilisateurs d'accéder facilement à Trello depuis leur téléphone. En utilisant l'API de Trello, l'objectif est de fournir une expérience utilisateur fluide pour la gestion des tâches, projets et équipes, directement depuis un appareil mobile.
